@@ -51,7 +51,7 @@ The goal is to assess the performance of SVMs across 10 different dataset sample
 
 ### Figure 1: Convergence of Best SVM (Sample S6)
 
-![Convergence Graph](path/to/Screenshot%202025-04-20%20at%202.04.41%20AM.png)
+![Convergence Graph](graph.png)
 
 - The graph shows how accuracy evolves over 100 iterations during the optimization process for Sample S6.
 - The optimizer quickly improves accuracy in the early stages and stabilizes after around 30 iterations.
@@ -64,8 +64,8 @@ The goal is to assess the performance of SVMs across 10 different dataset sample
 - `SVM_ds.ipynb`: Jupyter Notebook containing the training, optimization, and evaluation code.
 - `README.md`: This documentation file.
 - Images:
-  - `Screenshot 2025-04-20 at 2.04.54 AM.png` (Result Table)
-  - `Screenshot 2025-04-20 at 2.04.41 AM.png` (Convergence Graph)
+  - `table.png` (Result Table)
+  - `graph.png` (Convergence Graph)
 
 ---
 
