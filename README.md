@@ -57,20 +57,7 @@ For each of the 10 samples:
 
 ### Table 1: Comparative performance of Optimized-SVM with different samples
 
-![Result Table](result_table.png)
-
-| Sample | Best Accuracy | Best Parameters (Kernel, Nu, Gamma) |
-|--------|----------------|--------------------------------------|
-| S1     | 0.8015         | rbf, 0.2942, auto                   |
-| S2     | 0.7836         | rbf, 0.3382, scale                  |
-| S3     | 0.7903         | rbf, 0.3709, scale                  |
-| S4     | 0.7861         | rbf, 0.348, auto                    |
-| S5     | 0.7938         | rbf, 0.335, auto                    |
-| S6     | 0.8019         | rbf, 0.3345, scale                  |
-| S7     | 0.7928         | rbf, 0.3432, scale                  |
-| S8     | 0.7959         | rbf, 0.3135, scale                  |
-| S9     | 0.7618         | rbf, 0.4, scale                     |
-| S10    | 0.8005         | rbf, 0.2695, auto                   |
+![Result Table](table.png)
 
 > 🥇 **Best performance** achieved by **Sample S6** with **0.8019 accuracy**
 
